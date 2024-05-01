@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <!-- This is for the information about CSS and JAVA SCRIPT -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant Hub of Himalayan-Nepal</title>
+</head>
+<body><h1><b>Welcome to Plant Hub of Himalayan Nepal!</b></h1>
+    <h2>Innovative farming techniques for superior okra yield in Chitwan, Nepal: The benefits of plastic film mulch and pest exclusion net on soil properties, growth, quality and profitability </h2>
+     <h2>Abstract</h2>
+        <p> Okra <i>(Abelmoschus esculentus)</i> is a large-acreage cultivated, nutritious, commercial fruit vegetable crop in tropical and subtropical regions that plays a dominant role in Nepalese cuisine in the summer. Modified growing conditions through pest exclusion nets (PEN) and types of mulch on okra might be effective techniques to enhance yield and marketable production. Research is performed to investigate the effects of PEN and plastic film on the performance and yield of okra. An experiment laid out single factorial randomized complete block design with four replications and five treatments consists of: a) Control (No net + no mulch),
+             b) Organic mulch (Rice straw mulch), c) Black plastic mulch, d) Silver plastic mulch, 
+             <br><br><br>e) Pest exclusion net + black plastic mulch; on Swastik-2 F1 variety. 
+        </p>
+        <hr>
+        <p> Plant inside PEN +black plastic<a href="https://ars.els-cdn.com/content/image/1-s2.0-S1872203223000367-gr3_lrg.jpg"> Picture of the 
+            experiement in PEN and NET house
+        </a> 
+            mulching received low light intensity had higher vegetative growth but found with low yield. Plants in control and straw mulch treatments were found to have low vegetative growth and yield (22.7 and 24.4 tons/ha). Farmers can use silver and Black plastic plastics mulch, which are economically more viable and Productive as 
+            compared to other treatments for commercial cultivation of okra.
+        </p>
+        <hr>
+        <img src="Flag_of_Nepal.png">
+        <ul>
+            <li>Bikas</li>
+            <ul><li>
+                he is the son sobit man and Rupa Basnet
+            </li>
+        <li>
+            He is the grandson of Hem and Uma Basnet
+        </li>
+    <li> He is the future molecular Biologist</li></ul>
+            <li>Umisha</li>
+            <ul>
+                <li>she is an Undergrade student of the Agriculture and Forestry University</li>
+            </ul>
+            <li>Rupa</li>
+            <li>Sobit</li>
+            <li>Hem</li>
+            <li>Uma</li>
+        </ul>
+        <table border="1" cellpadding="10">
+            <tr>
+                <th>Name</th>
+                <th colspan="2">Age</th>
+                <th>Hobby</th>
+            </tr>
+            <td>Bikas</td>
+            <td>24</td>
+            <td>below 24</td>
+            <td>Playing a flute</td>
+            <tr>
+            <td>Ram</td>
+            <td>25</td>
+            <td>below 25</td>
+            <td>Playing a Guitar</td>
+            </tr>
+        </table>
+</body>
+</html>
